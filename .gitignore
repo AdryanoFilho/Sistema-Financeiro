@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iml
+
+logs/
+*.log
+
+out/
+.vscode/
+
+.DS_Store
+Thumbs.db
